@@ -1,0 +1,12 @@
+.bg-darkblue {
+    background-color: rgb(21, 79, 112);
+}
+
+.selection:hover {
+background-color: rgb(216, 216, 216);
+color: black !important;
+}
+
+.border-thicc {
+    border-width: 2px !important;
+}
